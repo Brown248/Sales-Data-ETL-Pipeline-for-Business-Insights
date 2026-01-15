@@ -61,9 +61,9 @@ sales-etl-project/
 
 ## ✅ วิธีรัน
 
-1. รัน ETL Pipeline:
+1. รันETLPipeline:
 ```bash
 python scripts/etl_pipeline.py
 
-2. เปิด Notebook วิเคราะห์:
+2.เปิดNotebookวิเคราะห์:
 jupyter notebook notebooks/analysis_th.ipynb
